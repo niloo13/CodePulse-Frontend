@@ -1,5 +1,5 @@
 
-# CodePulse-Frontend - Angular Frontend
+# CodePulse - Angular Frontend
 
 ## Introduction
 This project is an Angular-based frontend application designed to interact with a corresponding ASP.NET Core Web API. It includes features such as authentication using JWT tokens, role-based authorization, and complex state management with RxJs.
